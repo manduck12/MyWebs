@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    font-size: 60px;
+    
+}
+#grid p{
+    border: 1px solid gray;
+    background-color: cornsilk;
+    width: 280px;
+    padding: 20px;
+}
+img{
+    display: block; margin: 0px auto;
+    border: 2px solid blueviolet;
+}
+#grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+#big{
+    display: grid;
+    grid-template-columns: 85% 15%;
+}
+#tall{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+.cen{
+    text-decoration: underline;
+    color: midnightblue;
+    font-size: 21px;
+    text-align: center;
+    display: block;
+}
+.right{
+    border-left: 2px double black;
+    padding-left: 20px;
+}
+li{              
+    font-size: 25px;
+    color: purple;
+}
+iframe{
+    display: block; margin: 0px auto;
+    padding: 20px;
+}
