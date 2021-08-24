@@ -1,0 +1,78 @@
+{
+    "books" : [
+        {
+            "title" : "나미야 잡화점의 기적",
+            "writer" : "히가시노 게이고",
+            "fun" : "5",
+            "quote" : "나미야 잡화점의 기적은 정말 추천하고 싶다...!",
+            "img": "img/book.jpg",
+            "url" : "https://mantianew.tistory.com/4"
+            
+        },
+        {
+            "title" : "회랑정 살인사건",
+            "writer" : "히가시노 게이고",
+            "fun" : "4",
+            "quote" : "히가시노 게이고 작품 중 가장 논란이 많다는 수식이 붙을 정도로 충격적인 마지막 장면.",
+            "img": "img/book2.jpg",
+            "url" : "https://mantianew.tistory.com/7"
+        },
+        {
+            "title" : "모방범",
+            "writer" : "미유베 미유키",
+            "fun" : "4",
+            "quote" : "그리고 남겨진 사람들은 살아간다.",
+            "img": "img/book3.jpg",
+            "url" : "https://mantianew.tistory.com/8"
+        },
+        {
+            "title" : "악의",
+            "writer" : "히가시노 게이고",
+            "fun" : "5",
+            "quote" : "악의가 등에 떠밀렸다.",
+            "img": "img/book4.jpg",
+            "url" : "https://mantianew.tistory.com/9"
+        },
+        {
+            "title" : "용의자 X의 헌신",
+            "writer" : "히가시노 게이고",
+            "fun" : "4",
+            "quote" : "헌신, 말그대로 한남자의 헌신 뿐이었다.",
+            "img": "img/book5.jpg",
+            "url" : "https://mantianew.tistory.com/10"
+        },
+        {
+            "title" : "유성의 인연",
+            "writer" : "히가시노 게이고",
+            "fun" : "4",
+            "quote" : "부모를 잃은 3남매가 험난한 사회속을 살아간다.",
+            "img": "img/book6.jpg",
+            "url" : "https://mantianew.tistory.com/12"
+        },
+        {
+            "title" : "백야행",
+            "writer" : "히가시노 게이고",
+            "fun" : "4",
+            "quote" : "두명의 어린 아이가 모든 사건의 원흉과도 같았다.",
+            "img": "img/book7.jpg",
+            "url" : "https://mantianew.tistory.com/11"
+        },
+        {
+            "title" : "잠자는 숲",
+            "writer" : "히가시노 게이고",
+            "fun" : "2",
+            "quote" : "미오와 가가형사의 러브러브 스토리!",
+            "img": "img/book8.jpg",
+            "url" : "https://mantianew.tistory.com/17"
+        },
+        {
+            "title" : "동급생",
+            "writer" : "히가시노 게이고",
+            "fun" : "3",
+            "quote" : "여학생에 사고로 인해 파장이 시작되었다.",
+            "img": "img/book9.jpg",
+            "url" : "https://mantianew.tistory.com/13"
+        }
+    ]
+
+}
